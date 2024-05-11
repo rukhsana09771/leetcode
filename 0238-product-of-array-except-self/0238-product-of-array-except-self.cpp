@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
-        int product = 1;
-        int prod2 = 1;
-        int noz = 0;
-        for(int i=0; i<n; i++){
-            if(nums[i]==0) noz++;
-            product *= nums[i];
-            if(nums[i]!=0) prod2 *= nums[i];
+        vector<int> pre(n);
+        int p = nums[0];
+        pre[0] = 1;
+        for(int i=1; i<n; i++){
+            pre[i] = p;
+            p *= nums[i];
         }
-        if(noz>1) prod2 = 0;
-        for(int i=0; i<n; i++) {
-            if(nums[i]==0) nums[i] = prod2;
-            else nums[i] = product/nums[i];
+        // Suffix product array (in prefix only)
+        p = nums[n-1];
+        for(int i=n-2; i>=0; i--){
+            pre[i] *= p;
+            p *= nums[i];
         }
-        return nums;
+        return pre;
     }
 };
