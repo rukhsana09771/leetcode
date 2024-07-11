@@ -11,15 +11,21 @@
 class Solution {
 public:
     ListNode* swapNodes(ListNode* head, int k) {
-       ListNode* temp = head;
-        k--;
-        while(k--) temp = temp->next;
-        ListNode *p1 = temp->next, *p2 = head;
-        while(p1){
-            p1 = p1->next;
-            p2 = p2->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+       for(int i=1; i<k; i++){
+           fast = fast->next;
         }
-        swap(temp->val, p2->val);
+        ListNode* a = fast; // kth node from start
+        fast = fast->next; // fast has moved k steps ahead
+        while(fast){
+            slow = slow->next;
+            fast = fast->next;
+        }
+        ListNode* b = slow; // kth node from end
+        int temp = a->val;
+        a->val = b->val;
+        b->val = temp;
         return head;
     }
 };
