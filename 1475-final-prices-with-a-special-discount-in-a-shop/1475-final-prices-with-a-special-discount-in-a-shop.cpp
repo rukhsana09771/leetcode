@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> finalPrices(vector<int>& arr) {
         int n = arr.size();
-        vector<int> ans(n, -1);;
+        vector<int> ans(n);;
         stack<int> st;
         ans[n-1] = arr[n-1];
         st.push(arr[n-1]);
