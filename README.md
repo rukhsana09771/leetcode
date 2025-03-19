@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/rukhsana09771/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/rukhsana09771/leetcode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/rukhsana09771/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/rukhsana09771/leetcode/tree/master/0437-path-sum-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -61,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
