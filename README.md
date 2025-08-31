@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/rukhsana09771/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -101,10 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
 |  |
@@ -113,17 +116,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Greedy
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Sorting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Ordered Set
