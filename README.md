@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/rukhsana09771/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0975-range-sum-of-bst](https://github.com/rukhsana09771/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Linked List
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 ## Greedy
@@ -121,9 +124,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Ordered Set
 |  |
 | ------- |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
