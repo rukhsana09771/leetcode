@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/rukhsana09771/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rukhsana09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/rukhsana09771/leetcode/tree/master/0917-boats-to-save-people) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
 | ------- |
