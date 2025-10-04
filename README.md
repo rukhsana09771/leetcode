@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/rukhsana09771/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rukhsana09771/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rukhsana09771/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rukhsana09771/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/rukhsana09771/leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Sorting
 |  |
@@ -201,4 +202,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rukhsana09771/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rukhsana09771/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rukhsana09771/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
