@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rukhsana09771/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rukhsana09771/leetcode/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rukhsana09771/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rukhsana09771/leetcode/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/rukhsana09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/rukhsana09771/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rukhsana09771/leetcode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/rukhsana09771/leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/rukhsana09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
