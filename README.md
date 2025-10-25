@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rukhsana09771/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rukhsana09771/leetcode/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/rukhsana09771/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rukhsana09771/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/rukhsana09771/leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -218,9 +219,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rukhsana09771/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/rukhsana09771/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rukhsana09771/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rukhsana09771/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
