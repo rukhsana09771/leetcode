@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rukhsana09771/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/rukhsana09771/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rukhsana09771/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0747-min-cost-climbing-stairs](https://github.com/rukhsana09771/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/rukhsana09771/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/rukhsana09771/leetcode/tree/master/0917-boats-to-save-people) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rukhsana09771/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/rukhsana09771/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/rukhsana09771/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/rukhsana09771/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bit Manipulation
