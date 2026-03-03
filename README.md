@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
+| [1768-merge-strings-alternately](https://github.com/rukhsana09771/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2300-construct-string-with-repeat-limit](https://github.com/rukhsana09771/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/rukhsana09771/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0917-boats-to-save-people](https://github.com/rukhsana09771/leetcode/tree/master/0917-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/rukhsana09771/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
