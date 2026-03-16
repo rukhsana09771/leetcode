@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rukhsana09771/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/rukhsana09771/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
