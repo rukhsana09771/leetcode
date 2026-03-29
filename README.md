@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rukhsana09771/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/rukhsana09771/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rukhsana09771/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/rukhsana09771/leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/rukhsana09771/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Counting
 |  |
 | ------- |
