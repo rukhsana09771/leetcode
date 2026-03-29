@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/rukhsana09771/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rukhsana09771/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rukhsana09771/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/rukhsana09771/leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rukhsana09771/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rukhsana09771/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Counting
 |  |
 | ------- |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rukhsana09771/leetcode/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rukhsana09771/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 <!---LeetCode Topics End-->
