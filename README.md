@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rukhsana09771/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rukhsana09771/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rukhsana09771/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rukhsana09771/leetcode/tree/master/0443-string-compression) |
 | [0778-reorganize-string](https://github.com/rukhsana09771/leetcode/tree/master/0778-reorganize-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rukhsana09771/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rukhsana09771/leetcode/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/rukhsana09771/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rukhsana09771/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rukhsana09771/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rukhsana09771/leetcode/tree/master/0443-string-compression) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rukhsana09771/leetcode/tree/master/0802-k-th-smallest-prime-fraction) |
