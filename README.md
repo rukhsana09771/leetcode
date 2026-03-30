@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rukhsana09771/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/rukhsana09771/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/rukhsana09771/leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rukhsana09771/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rukhsana09771/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
