@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/rukhsana09771/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/rukhsana09771/leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rukhsana09771/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rukhsana09771/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/rukhsana09771/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rukhsana09771/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rukhsana09771/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rukhsana09771/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/rukhsana09771/leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/rukhsana09771/leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/rukhsana09771/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3233-find-the-count-of-numbers-which-are-not-special](https://github.com/rukhsana09771/leetcode/tree/master/3233-find-the-count-of-numbers-which-are-not-special) |
 ## Prefix Sum
 |  |
