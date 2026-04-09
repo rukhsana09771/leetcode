@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/rukhsana09771/leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1127-last-stone-weight](https://github.com/rukhsana09771/leetcode/tree/master/1127-last-stone-weight) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rukhsana09771/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rukhsana09771/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/rukhsana09771/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1794-minimize-deviation-in-array](https://github.com/rukhsana09771/leetcode/tree/master/1794-minimize-deviation-in-array) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rukhsana09771/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/rukhsana09771/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rukhsana09771/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
@@ -277,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rukhsana09771/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/rukhsana09771/leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
