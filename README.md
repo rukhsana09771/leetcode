@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/rukhsana09771/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rukhsana09771/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rukhsana09771/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/rukhsana09771/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rukhsana09771/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rukhsana09771/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
