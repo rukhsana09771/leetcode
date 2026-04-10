@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rukhsana09771/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rukhsana09771/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/rukhsana09771/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rukhsana09771/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rukhsana09771/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rukhsana09771/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/rukhsana09771/leetcode/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/rukhsana09771/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/rukhsana09771/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/rukhsana09771/leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/rukhsana09771/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rukhsana09771/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rukhsana09771/leetcode/tree/master/0392-is-subsequence) |
