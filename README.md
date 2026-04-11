@@ -303,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rukhsana09771/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/rukhsana09771/leetcode/tree/master/1732-find-the-highest-altitude) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rukhsana09771/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
