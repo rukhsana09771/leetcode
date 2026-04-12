@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rukhsana09771/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rukhsana09771/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rukhsana09771/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rukhsana09771/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rukhsana09771/leetcode/tree/master/0189-rotate-array) |
 | [0797-rabbits-in-forest](https://github.com/rukhsana09771/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rukhsana09771/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rukhsana09771/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rukhsana09771/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/rukhsana09771/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rukhsana09771/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/rukhsana09771/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/rukhsana09771/leetcode/tree/master/0392-is-subsequence) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rukhsana09771/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rukhsana09771/leetcode/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
